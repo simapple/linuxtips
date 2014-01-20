@@ -8,5 +8,5 @@ mount 让这些文件都准备就绪让用户使用。（wiki上这说的都是什么 啊）
 
 我还想知道mount 都有哪些挂载方式，都有什么不同，目前还没有找到好的资料，稍后继续
 
-(linux mount)[http://www.simapple.com/243.html]
+[linux mount](http://www.simapple.com/243.html)
 
